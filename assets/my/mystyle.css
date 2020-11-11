@@ -1,0 +1,42 @@
+#incluir .table tbody tr td, .table tbody tr th {
+    padding: 5px !important;
+}
+
+span.select2 {
+    width: 100% !important;
+}
+
+.input-group {
+    width: auto !important;
+    margin-bottom: 0px !important;
+}
+
+.p-0 {
+    padding: 0px;
+}
+
+.h-20 {
+    height: 20px !important;
+}
+
+.bg-cinza {
+    background-color: #f6f6f6;
+    color: #000000;
+}
+
+.w-auto {
+    width: auto !important;
+}
+
+.w-100 {
+    width: 100% !important;
+}
+
+.cod {
+    width: 50%;
+    border: none;
+}
+
+.va-bottom {
+    vertical-align: bottom;
+}
